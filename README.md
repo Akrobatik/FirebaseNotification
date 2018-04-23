@@ -61,7 +61,7 @@ Choose “Cloud Messaging” from the left menu bar.
 Press “New Message” and enter an message text.
 When done, choose the app (usually it’s the package name of the app)
 And enjoy your OP push notification
-
+![alt text](noti.png)
 
 # Conclusion / Reflection
 Push notifications are a must with all apps, some more than others, but to enable communication without having the user to have the app open, is a strong communication tool for app developers.
