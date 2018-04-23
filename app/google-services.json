@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "287817935932",
+    "firebase_url": "https://studido-5e6de.firebaseio.com",
+    "project_id": "studido-5e6de",
+    "storage_bucket": "studido-5e6de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287817935932:android:bf60bb7393094f32",
+        "android_client_info": {
+          "package_name": "rasmussen_solutions.dk.studido"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287817935932-9lorjnvtf57k41frren66agjc6f2vtor.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "rasmussen_solutions.dk.studido",
+            "certificate_hash": "726c281f21e6045686d58fe71b902200c6dc8840"
+          }
+        },
+        {
+          "client_id": "287817935932-25455b0j5dbor9rm5p0oe29b4ch5sni9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_tyVUJydKweMsR8kH5DlDUuT2_bVK_Ko"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287817935932-25455b0j5dbor9rm5p0oe29b4ch5sni9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
