@@ -1,4 +1,4 @@
-# FirebaseNotification
+# FirebaseNotification s
 
 # What are push notifications?
 A push notification is a message that pops up on a mobile device. App publishers can send them at any time; users don't have to be in the app or using their devices to receive them. They can do a lot of things; for example, they can show the latest sports scores, get a user to take an action, such as downloading a coupon, or let a user know about an event, such as a flash sale.
